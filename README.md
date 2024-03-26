@@ -13,6 +13,10 @@ Flexible Device Interfacing: Develop the controller to support interfacing with 
 
 Reliable Communication: Implement error-checking mechanisms to ensure reliable data transfer between master and slave devices. Investigate techniques to detect and recover from potential data corruption or transmission errors.
 
+# Diagram : -
+![image](https://github.com/8307820421/Serial-Peripheral-Interface-Controller-using-AMD-ZYNQ-7000-ARM-Cortex-Processor-ZEDBOARD/assets/110840084/7329bd0a-5ccf-4a05-b989-e0b0bda4a11b)
+
+
 
 
 
