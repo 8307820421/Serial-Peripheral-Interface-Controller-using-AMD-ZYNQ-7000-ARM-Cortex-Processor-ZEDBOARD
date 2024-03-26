@@ -1,4 +1,4 @@
-![image](https://github.com/8307820421/Serial-Peripheral-Interface-Controller-using-AMD-ZYNQ-7000-ARM-Cortex-Processor-ZEDBOARD/assets/110840084/b73df4a6-bf66-4b07-ae54-433121a5ad3e)# Serial-Peripheral-Interface-Controller-using-AMD-ZYNQ-7000-ARM-Cortex-Processor-ZEDBOARD
+# Serial-Peripheral-Interface-Controller-using-AMD-ZYNQ-7000-ARM-Cortex-Processor-ZEDBOARD
 
 # SPI stands for SERIAL PERIPHERAL INTERFACE CONTROLLER.
 Serial peripheral interface (SPI) is an interface commonly used in computers and embedded systems to facilitate short-distance communication between a microcontroller and one or more  
@@ -15,6 +15,14 @@ Reliable Communication: Implement error-checking mechanisms to ensure reliable d
 
 # Diagram : -
 ![image](https://github.com/8307820421/Serial-Peripheral-Interface-Controller-using-AMD-ZYNQ-7000-ARM-Cortex-Processor-ZEDBOARD/assets/110840084/7329bd0a-5ccf-4a05-b989-e0b0bda4a11b)
+
+# Regular SPI Mode :
+![image](https://github.com/8307820421/Serial-Peripheral-Interface-Controller-using-AMD-ZYNQ-7000-ARM-Cortex-Processor-ZEDBOARD/assets/110840084/9e92ccac-b88e-425e-a5d6-3cb07048f0ac)
+
+# Components :
+![image](https://github.com/8307820421/Serial-Peripheral-Interface-Controller-using-AMD-ZYNQ-7000-ARM-Cortex-Processor-ZEDBOARD/assets/110840084/02030b85-6e22-446c-91f6-e51cc590ed87)
+
+
 
 
 
