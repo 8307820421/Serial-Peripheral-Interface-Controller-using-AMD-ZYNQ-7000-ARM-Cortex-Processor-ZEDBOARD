@@ -21,6 +21,10 @@ Reliable Communication: Implement error-checking mechanisms to ensure reliable d
 
 # Components :
 ![image](https://github.com/8307820421/Serial-Peripheral-Interface-Controller-using-AMD-ZYNQ-7000-ARM-Cortex-Processor-ZEDBOARD/assets/110840084/02030b85-6e22-446c-91f6-e51cc590ed87)
+# SPI Controller Using Aurduino coneections :
+![image](https://github.com/8307820421/Serial-Peripheral-Interface-Controller-using-AMD-ZYNQ-7000-ARM-Cortex-Processor-ZEDBOARD/assets/110840084/739fb606-df61-4a4b-af80-96b571468fed)
+
+
 
 
 
